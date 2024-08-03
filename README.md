@@ -22,21 +22,16 @@ Copy code
 1. **Клонируйте репозиторий:**
 
    ```sh
-   git clone https://github.com/username/Number-NN.git
-Замените username на ваше имя пользователя GitHub.
+   git clone https://github.com/blockrypt/Number-NN.git
 
 Установите необходимые библиотеки:
 
 Убедитесь, что у вас установлен Python 3.x и используйте pip для установки необходимых библиотек:
 
-sh
-Copy code
 pip install numpy matplotlib
 Запуск
 Для обучения и тестирования нейронной сети запустите скрипт way.py:
 
-sh
-Copy code
 python way.py
 Скрипт выполнит следующие действия:
 
